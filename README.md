@@ -1,5 +1,5 @@
 # Python-Exercise
-A personl repo for enhancement the skills of Python.
+A personal repo for enhancement the skills of Python.
 
 * Challenge 1
 
