@@ -8,3 +8,7 @@ A personal repo for enhancement the skills of Python.
 * Challenge 2
 
     Find the longest word of a sentence.
+
+* Challenge 3
+
+    Check the type of array. 
