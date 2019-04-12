@@ -24,3 +24,5 @@ print(mathSequences([-10,-20,-30,-40]))
 print(mathSequences([2,4,8,16]))
 # -1
 print(mathSequences([2,5,6,87,8]))
+
+
