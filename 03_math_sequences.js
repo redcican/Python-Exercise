@@ -1,5 +1,5 @@
 // Check the type of a math sequence
-// Arithmetic, Geometric or No pattern.
+// Arithmetic, Geometric or No pattern
 // But without negative numbers
 
 function mathSequences(arr){
