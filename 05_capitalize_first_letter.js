@@ -16,7 +16,7 @@ console.log(capitalizeWords("I got up early today"));
 console.log(capitalizeWords("I walked straight to the beach"));
 console.log("###############################")
 
-// a effective way
+// an effective way
 function effectiveCapitalizeWords(str){
     let words = str.split(" ").map(word=>{
         return word.charAt(0).toUpperCase()+ word.slice(1);
