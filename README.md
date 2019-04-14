@@ -16,3 +16,7 @@ A personal repo for enhancement the skills of Python.
 * Challenge 4
 
     Check a number is a prime number or not.
+    
+* Challenge 5
+
+    Capitalize the first letter of a sentence.
