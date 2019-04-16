@@ -21,6 +21,6 @@ A personal repo for enhancement the skills of Python.
 
     Capitalize the first letter of a sentence.
 
-* Challege 6
+* Challenge 6
 
     Find out whether or not a string or object hast unique value.
