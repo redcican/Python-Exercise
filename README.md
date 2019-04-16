@@ -20,3 +20,7 @@ A personal repo for enhancement the skills of Python.
 * Challenge 5
 
     Capitalize the first letter of a sentence.
+
+* Challege 6
+
+    Find out whether or not a string or object hast unique value.
