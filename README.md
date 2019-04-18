@@ -21,6 +21,10 @@ A personal repo for enhancement the skills of Python.
 
     Capitalize the first letter of a sentence.
 
-* Challege 6
+* Challenge 6
 
     Find out whether or not a string or object hast unique value.
+
+* Challenge 7
+
+    Check if all the numbers summed up are equal to a largest number that we have in an array
