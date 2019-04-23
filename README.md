@@ -28,3 +28,7 @@ A personal repo for enhancement the skills of Python.
 * Challenge 7
 
     Check if all the numbers summed up are equal to a largest number that we have in an array
+
+* Challenge 8
+
+    Dynamic filter the unique value of an Array
