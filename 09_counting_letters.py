@@ -20,4 +20,4 @@ def countLetters(str):
 
 
 
-print(countLetters("Javascript is the greatest programming language"))
+print(countLetters("Javascript is the greaaatest programming language"))
