@@ -16,8 +16,8 @@ A personal repo for enhancement the skills of Python.
 
 * Challenge 4
 
-    Check a number is a prime number or not
-    
+    Check a number is a prime number or not  
+
 * Challenge 5
 
     Capitalize the first letter of a sentence.
@@ -37,3 +37,7 @@ A personal repo for enhancement the skills of Python.
 * Challenge 9
 
     Find first word with greatest number of repeated letter
+
+* Challenge 10
+
+    Find the second value of an array
