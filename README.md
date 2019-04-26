@@ -41,3 +41,7 @@ A personal repo for enhancement the skills of Python.
 * Challenge 10
 
     Find the second value of an array
+
+* Challenge 11
+
+    Return number with most repeats, if two numbers the repeated the same return first if none repeated return -1
