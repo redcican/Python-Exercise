@@ -49,3 +49,7 @@ A personal repo for enhancement the skills of Python.
 * Challenge 12
 
     Reverse a string by using different methods.
+
+* Challenge 13
+
+    Factorialze a number and return the result. 
