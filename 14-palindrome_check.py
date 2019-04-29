@@ -15,7 +15,6 @@ def palindrome(string):
         return True
     return False
 
-    
 
 
 print(palindrome("eye"))
@@ -28,3 +27,4 @@ print(palindrome("nope"))
 print(palindrome("almostomla"))
 print(palindrome("My age is 0, 0 si ega ym."))
 print(palindrome("0_0(:/-\:)0-0"))
+
