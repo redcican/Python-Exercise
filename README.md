@@ -1,6 +1,6 @@
 # Python-Exercise
 
-A personal repo for enhancement the skills of Python.
+A personal repo for enhancement the skills of Python
 
 * Challenge 1
 
@@ -48,8 +48,12 @@ A personal repo for enhancement the skills of Python.
 
 * Challenge 12
 
-    Reverse a string by using different methods.
+    Reverse a string by using different methods
 
 * Challenge 13
 
-    Factorialze a number and return the result. 
+    Factorialze a number and return the result
+
+* Challenge 14
+
+    Check a given string is a palindrome or not
