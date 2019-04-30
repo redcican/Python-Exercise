@@ -1,4 +1,4 @@
-# Python-Exercise
+# Python-Javascript-Exercise
 
 A personal repo for enhancement the skills of Python
 
