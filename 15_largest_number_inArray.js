@@ -1,4 +1,4 @@
-// return the largest number of an Two-dimensions Array
+// return the largest number of a Two-dimensions Array
 
 
 function largestOfFour(arr){
