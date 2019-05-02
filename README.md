@@ -61,3 +61,7 @@ A personal repo for enhancement the skills of Python
 * Challenge 15
 
     Find the largest number of a two-dimensions array
+
+* Challenge 16
+
+    Confirm the ending of a string and compares it to the target string
