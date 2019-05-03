@@ -67,3 +67,7 @@ A personal repo for enhancement the skills of Python
 * Challenge 16
 
     Confirm the ending of a string and compares it to the target string
+
+* Challenge 17
+
+    Using different methods to repeat a string
