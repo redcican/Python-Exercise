@@ -1,4 +1,4 @@
-# Python-Javascript-Exercise
+# Python-Javascript-Challenge
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -76,5 +76,5 @@ A personal repo for enhancement the skills of Python
 
     Truncate a string if it is longer than the given maximum string length.
     Return the truncated string with a `...` ending. However, if the given maximum
-    string length `num` is less than or equal to 3, then the addition of the three dots 
+    string length `num` is less than or equal to 3, then the addition of the three dots
     does not add to the string length in determining the truncated string.
