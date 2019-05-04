@@ -71,3 +71,10 @@ A personal repo for enhancement the skills of Python
 * Challenge 17
 
     Using different methods to repeat a string
+
+* Challenge 18
+
+    Truncate a string if it is longer than the given maximum string length.
+    Return the truncated string with a `...` ending. However, if the given maximum
+    string length `num` is less than or equal to 3, then the addition of the three dots 
+    does not add to the string length in determining the truncated string.
