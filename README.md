@@ -78,3 +78,8 @@ A personal repo for enhancement the skills of Python
     Return the truncated string with a `...` ending. However, if the given maximum
     string length `num` is less than or equal to 3, then the addition of the three dots
     does not add to the string length in determining the truncated string.
+
+* Challenge 19
+
+    Write a function that splits an array (first auguments) into groups the length  
+    of `size` (second argument) and return them as a two-dimensional array.
