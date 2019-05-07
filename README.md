@@ -87,3 +87,7 @@ A personal repo for enhancement the skills of Python
 * Challenge 20
 
     Return the remaining elements of an array after chopping off `n` elements from the head.
+
+* Challenge 21
+
+    Count repeating letters, string will not contain numbers or submols only letters.
