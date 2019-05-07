@@ -83,3 +83,7 @@ A personal repo for enhancement the skills of Python
 
     Write a function that splits an array (first auguments) into groups the length  
     of `size` (second argument) and return them as a two-dimensional array.
+
+* Challenge 20
+
+    Return the remaining elements of an array after chopping off `n` elements from the head.
