@@ -2,9 +2,9 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A personal repo for enhancement the skills of Python
+A personal repo for enhancement the skills of Python. Stars mean Difficulty of the challenges. 
 
-* Challenge 1 Difficulty: :star:
+* Challenge 1  :star:
 
     Find the first index of a sub string out of a source string
 
