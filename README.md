@@ -4,7 +4,7 @@
 
 A personal repo for enhancement the skills of Python
 
-* Challenge 1
+* Challenge 1 Difficulty:   :star:
 
     Find the first index of a sub string out of a source string
 
