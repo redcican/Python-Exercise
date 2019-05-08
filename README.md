@@ -91,3 +91,7 @@ A personal repo for enhancement the skills of Python
 * Challenge 21
 
     Count repeating letters, string will not contain numbers or submols only letters.
+
+* Challenge 22
+
+    Mutations: return true if the first element of the array contains all of the letters of the string in the second element of the array.
