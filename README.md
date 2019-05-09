@@ -95,3 +95,7 @@ A personal repo for enhancement the skills of Python. Stars mean Difficulty of t
 * Challenge 22 :star:
 
     Mutations: return true if the first element of the array contains all of the letters of the string in the second element of the array.
+
+* Challenge 23 :star:
+
+    Remove all flasy values from an array.
