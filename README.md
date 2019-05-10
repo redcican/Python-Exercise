@@ -99,3 +99,7 @@ A personal repo for enhancement the skills of Python. Stars mean Difficulty of t
 * Challenge 23 :star:
 
     Remove all flasy values from an array.
+
+* Challenge 24 :star::star:
+
+    Be provided with an initial array (the first argument in the destroyer function), followed by one or more arguments. Remove all elements from the initial array that are of the same value as these arguments.
