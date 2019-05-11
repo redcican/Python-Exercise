@@ -109,3 +109,7 @@ A personal repo for enhancement the skills of Python. Stars mean Difficulty of t
     Given an array of integers, return indices of 
     the two numbers such that they add up to a specific target.
     the first index should smaller than second
+
+* Challenge 26 :star:
+
+    Return the lowest index at which a value should be inserted into an array once it has been sorted. The returned value should be a number.
