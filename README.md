@@ -115,7 +115,7 @@ A personal repo for enhancement the skills of Python. Stars mean Difficulty of t
 
     Return the lowest index at which a value should be inserted into an array once it has been sorted. The returned value should be a number.
 
-* Challenge 27
+* Challenge 27 :star:
 
     One of the simplest and most widely known `ciphers` is `Caesar cipher`, also known as `shift cipher`. In a `shift cipher` the meanings of the letters are shifted by some set amoutn. A common modern use is the **`ROT13`** cipher, where the values of the letters are shifted by 13 places. Thus `A`<->`N`, `B`<->`O`and so on. Reference: [ASCII-Table](https://lubasch.ch/wp-content/uploads/2015/01/ascii_tabelle.pdf)
 
