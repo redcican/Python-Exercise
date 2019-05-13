@@ -15,3 +15,4 @@ function sumAll(arr){
 
 console.log(sumAll([1,4]));
 console.log(sumAll([5,1]));
+console.log(sumAll([100,0]))
