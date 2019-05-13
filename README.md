@@ -119,4 +119,8 @@ A personal repo for enhancement the skills of Python. Stars mean Difficulty of t
 
     One of the simplest and most widely known `ciphers` is `Caesar cipher`, also known as `shift cipher`. In a `shift cipher` the meanings of the letters are shifted by some set amoutn. A common modern use is the **`ROT13`** cipher, where the values of the letters are shifted by 13 places. Thus `A`<->`N`, `B`<->`O`and so on. Reference: [ASCII-Table](https://lubasch.ch/wp-content/uploads/2015/01/ascii_tabelle.pdf)
 
+* Challenge 28 :star:
+
+    We will pass an array of two numbers. Return the sum of those two numbers and all numbers between them. The lowest number will not always come first. 
+
 
