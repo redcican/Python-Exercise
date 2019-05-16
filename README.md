@@ -131,4 +131,11 @@ A personal repo for enhancement the skills of Python. Stars mean Difficulty of t
 
     Convert the given number into a romon numeral. All `roman numerals` answers should be provided in upper-case.
 
+* Challenge 31
+
+    Given two `non-empty` linked lists representing two non-negative integers. The digits are stored in `reverse order` and each of their nodes contain a single digit. Add the two numbers and return it as linked list.  
+    Example: Input (2 -> 4 ->3) + (5 -> 6 -> 4)  
+    Output: 7 -> 0 -> 8  
+    Explanation: 342 + 465 = 807
+
 
